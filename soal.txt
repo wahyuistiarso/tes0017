@@ -1,0 +1,12 @@
+Petunjuk Soal:
+==============
+1. Clone project: https://github.com/bernardvery/tes
+2. Buat file-file baru berikut:
+   a. profil.txt --> isi dengan data anda, nim & nama
+   b. kampus.txt --> isi dengan progdi, jurusan, fakultas dan universitas Anda
+   c. matkul.txt --> isi dengan mata kuliah open source system
+3. catat setiap penambahan file diatas ke dalam log/history masing-masing di repository lokal (master)
+4. Buat repository baru di akun github Anda masing-masing dengan nama "tesXXXX" (cth. tes0020)
+5. Tambah alamat remote baru yang merujuk ke repsitory di no.4 pada repo "tes" lokal
+6. lakukan push ke repo baru Anda sesuai no.4
+
