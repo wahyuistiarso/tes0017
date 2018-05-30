@@ -1,7 +1,7 @@
 Petunjuk Soal:
 ==============
 1. Clone project: https://github.com/bernardvery/tes
-2. Buat file-file baru berikut:
+2. Buat file-file baru berikut pada repo "tes" lokal Anda:
    a. profil.txt --> isi dengan data anda, nim & nama
    b. kampus.txt --> isi dengan progdi, jurusan, fakultas dan universitas Anda
    c. matkul.txt --> isi dengan mata kuliah open source system
