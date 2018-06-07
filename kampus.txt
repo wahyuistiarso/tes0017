@@ -1,0 +1,3 @@
+Progdi 		: Teknik Informatika
+Fakultas	: FTIK
+Universitas	: Universitas Semarang
